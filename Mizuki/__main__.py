@@ -76,20 +76,20 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_TEXT = """*Hey there, my name is Mizuki 👸\n\nI am a next gen powerful group manager bot.\n\nHit /help to find my list of available commands.*"""
+PM_START_TEXT = """*Hey there, my name is ULTIMATE GROUP MANAGER 🛂\n\nI am a next gen powerful group manager bot.\n\nHit /help to find my list of available commands.*"""
 buttons = [
     [
-        InlineKeyboardButton(text="♞ Support", url="https://t.me/Infinity_BOTs"),
+        InlineKeyboardButton(text="♞ Support", url="https://t.me/sinhagiri_visual_studio"),
         InlineKeyboardButton(text="❔ Help", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
-            text="🤗 Source Code", url="https://github.com/ImJanindu/Mizuki"
+            text="🤗 Source Code", url="https://github.com/Prasad-Madhuranga/Mizuki"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add me to your group ➕", url="t.me/TheMizukiBot?startgroup=true"
+            text="➕ Add me to your group ➕", url="http://t.me/ultimategroupmanager_bot?startgroup=true"
         ),
     ],
 ]
@@ -111,7 +111,7 @@ I'm a group management bot, here to help you get around and keep the order in yo
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !\n",
 )
 
-DONATE_STRING = """Heya, glad to hear you want to donate for developer. This bot runs on heroku so bot slow down some times and developer cannot add more modules due to heroku can't run them.\n\nBetter if my developer recieved a VPS to run the bot. Contact him and help him to continue this.\n\nDeveloper: [@ImJanindu](t.me/imjanindu)"""
+DONATE_STRING = """Heya, glad to hear you want to donate for developer. This bot runs on heroku so bot slow down some times and developer cannot add more modules due to heroku can't run them.\n\nBetter if my developer recieved a VPS to run the bot. Contact him and help him to continue this.\n\nDeveloper: [@prasadmadhuranga](t.me/prasadmadhuranga)"""
 
 IMPORTED = {}
 MIGRATEABLE = []

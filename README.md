@@ -1,14 +1,14 @@
-![Mizuki](https://telegra.ph/file/2cdd052cf883e8ace4ffa.jpg)
-# Mizuki Bot
+![ULTIMATE GROUP MANAGER](https://telegra.ph/file/a5558f7c2df611d00d4d1.jpg)
+# ULTIMATE GROUP MANAGER
 
 A Telegram Python bot running on python3 forked with saitama with a sqlalchemy database and an entirely themed persona to make fun and good management for you in your groups.
 
-Can be found on telegram as [Mizuki](https://t.me/TheMizukiBot)
+Can be found on telegram as [ULTIMATE GROUP MANAGER](https://t.me/ultimategroupmanagerbot)
 
-The Support group can be reached out to at [Infinity JE](https://t.me/InfinityJEOT), where you can ask for help , discover new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [SINHAGIRI VISUAL STUDIO™](https://t.me/sinhagiri_visual_studio), where you can ask for help , discover new features, report bugs, and stay in the loop whenever a new update is available. 
 
 
-Updates channel as at [Infinity BOTs](https://t.me/Infinity_BOTs)
+Updates channel as at [SINHAGIRI VISUAL STUDIO™](https://t.me/sinhagiri_visual_studio)
 
 ## How to setup or deploy
 
@@ -20,7 +20,7 @@ Updates channel as at [Infinity BOTs](https://t.me/Infinity_BOTs)
 ## How to setup on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImJanindu/Mizuki.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Prasad-Madhuranga/Mizuki.git) 
 
 ## Credits
 The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
